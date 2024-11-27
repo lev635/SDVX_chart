@@ -1,0 +1,120 @@
+.sdvx_background {
+    transform: scale(1, -1);
+    margin: 0px auto;
+    width: 240px;
+}
+
+.segment {
+    position: absolute;
+    width: 100%;
+    height: 240px;
+}
+
+.lane_vol_L {
+    position: absolute;
+    background-color: #000033;
+    border-right: 5px solid #3d9999;
+    border-left: 5px solid #3d9999;
+    box-sizing: border-box;
+    width: 12.5%;
+    height: 100%;
+}
+
+.lane_vol_R {
+    position: absolute;
+    background-color: #330000;
+    border-right: 5px solid #993d99;
+    border-left: 5px solid #993d99;
+    box-sizing: border-box;
+    width: 12.5%;
+    height: 100%;
+}
+
+.chart {
+    position: absolute;
+    background-color: #1a1a1a;
+    width: 75%;
+    height: 100%;
+}
+
+.lane_border {
+    border: 1px solid #5c5266;
+    box-sizing: border-box;
+    position: absolute;
+    width: 25%;
+    height: 100%;
+}
+
+
+.lane_FX {
+    position: absolute;
+    width: 50%;
+    height: 100%;
+}
+
+.lane_BT {
+    position: absolute;
+    width: 25%;
+    height: 100%;
+}
+
+.fx {
+    background-color: #ff9123;
+    height: 20px;
+    width: 97.5%;
+    border-radius: 2% / 50%;
+    position: absolute;
+    right: 0;
+    left: 0;
+    margin: 0px auto;
+    z-index: 3;
+}
+
+.fx_effect {
+    background-color: #ffd500;
+    height: 20px;
+    width: 97.5%;
+    border-radius: 2% / 50%;
+    position: absolute;
+    right: 0;
+    left: 0;
+    margin: 0px auto;
+    z-index: 3;
+}
+
+.bt {
+    background-color: #eeeeee;
+    height: 16px;
+    width: 90%;
+    border-radius: 5% / 50%;
+    position: absolute;
+    right: 0;
+    left: 0;
+    margin: 0px auto;
+    z-index: 4;
+}
+
+.fx_long {
+    background-color: #b35900;
+    border-right: 4px solid #ff8000;
+    border-left: 4px solid #ff8000;
+    box-sizing: border-box;
+    width: 95%;
+    opacity: 70%;
+    position: absolute;
+    right: 0;
+    left: 0;
+    margin: 0px auto;
+    z-index: 1;
+}
+
+.bt_long {
+    background-color: #eeeeee;
+    box-sizing: border-box;
+    width: 75%;
+    position: absolute;
+    right: 0;
+    left: 0;
+    margin: 0px auto;
+    z-index: 2;
+}

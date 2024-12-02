@@ -8,7 +8,7 @@
 | ファイル名    | 説明                      | 
 | ------------- | ------------------------- | 
 | example0.html | crazy cinema story [XCD]  | 
-| example1.html | Daisycutter [GRV]         | 
+| example1.html | Daisycutter [MXM]         | 
 | example2.html | BLACK or WHITE? [GRV]     | 
 | example3.html | Everlasting Message [GRV] | 
 | index.html    | テスト用                  | 
